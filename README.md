@@ -1,6 +1,4 @@
-# Predicting-Aircraft-RUL-using-Machine-Learning
-
-# Aircraft Turbofan Engine RUL Prediction Using Machine Learning
+# Predicting Aircraft Turbofan Engine RUL using Machine Learning
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-NASA%20C--MAPSS-orange)](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)
